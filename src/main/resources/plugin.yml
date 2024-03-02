@@ -1,0 +1,10 @@
+name: DeathShuffle
+version: '${project.version}'
+main: me.ash.deathshuffle.DeathShuffle
+api-version: 1.19
+authors: [ Ash ]
+description: Death Shuffle
+commands:
+  startDeathShuffle:
+  stopDeathShuffle:
+  inventory:
